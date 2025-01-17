@@ -52,7 +52,7 @@ src/
 
 2. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/Xardy24/price-service.git
    cd price-service
    ```
 
